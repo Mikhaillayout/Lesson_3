@@ -1,0 +1,39 @@
+nav * {
+  color: lightgreen;
+}
+
+#headline {
+  color: tomato;
+}
+.title p {
+  color: teal;
+}
+.title .cool {
+  color: rgb(132, 199, 224);
+}
+
+p {
+  color: lightsalmon;
+}
+span {
+  color: blue;
+}
+span.name {
+  color: goldenrod;
+}
+.dangerous {
+  color: red;
+}
+.maintext .none,
+.impotent {
+  color: green;
+}
+.dop-class .dop-text {
+  color: black;
+}
+.storm mark {
+  color: gray;
+}
+mark {
+  color: red;
+}
